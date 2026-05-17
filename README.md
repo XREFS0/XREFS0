@@ -1,22 +1,18 @@
-<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
-  <tr style="border: none;">
-    <td align="left" valign="middle" style="border: none; width: 65%;">
-      <h1>MOHAMED MAMDOUH</h1>
-      <h3>Elite Software Engineer & Secure Systems Architect</h3>
-      <p>
-        I am a software engineer and security researcher known in the development community as <b>Mr Masa / XREFS0</b>. 
-        My expertise focuses on high-performance desktop engineering, robust web infrastructure, and low-level reverse engineering. 
-        I specialize in architecting secure, tamper-resistant systems, analyzing binary executables, and building resilient enterprise applications.
-      </p>
-    </td>
-    <td align="right" valign="middle" style="border: none; width: 35%;">
-      <img src="https://up6.cc/2026/05/177905093806911.png" width="200" alt="Mohamed Mamdouh" style="border-radius: 12px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://up6.cc/2026/05/177905093806911.png" width="220" alt="Mohamed Mamdouh" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(139, 92, 246, 0.3);" />
+</p>
+
+<h1 align="center">MOHAMED MAMDOUH</h1>
+<p align="center"><b>Elite Software Engineer & Secure Systems Architect</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=XREFS0+%7C+MASTER+REVERSE+ENGINEER;MR+MASA+%7C+ELITE+DEVELOPER;ARCHITECTING+SECURE+SOFTWARE" />
+</p>
+
+<p align="center">
+  I am a software engineer and security researcher known in the development community as <b>Mr Masa / XREFS0</b>.<br>
+  My expertise focuses on high-performance desktop engineering, robust web infrastructure, and low-level reverse engineering.<br>
+  I specialize in architecting secure, tamper-resistant systems, analyzing binary executables, and building resilient enterprise applications.
 </p>
 
 ---
@@ -55,8 +51,10 @@
 ## Technical Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XREFS0&show_icons=true&theme=transparent&text_color=8B5CF6&icon_color=8B5CF6&hide_border=true&title_color=8B5CF6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XREFS0&layout=compact&theme=transparent&text_color=8B5CF6&icon_color=8B5CF6&hide_border=true&title_color=8B5CF6" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=XREFS0&show_icons=true&theme=transparent&text_color=8B5CF6&icon_color=8B5CF6&hide_border=true&title_color=8B5CF6" width="480" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=XREFS0&layout=compact&theme=transparent&text_color=8B5CF6&icon_color=8B5CF6&hide_border=true&title_color=8B5CF6" width="480" />
 </p>
 
 <p align="center">
@@ -68,12 +66,12 @@
 ## Secure Channels
 
 <p align="center">
-  <a href="https://t.me/XREFS0"><img src="https://img.shields.io/badge/Telegram-121214?style=for-the-badge&logo=telegram&logoColor=8B5CF6" alt="Telegram" /></a>
-  <a href="https://www.youtube.com/@XREFS0"><img src="https://img.shields.io/badge/YouTube-121214?style=for-the-badge&logo=youtube&logoColor=8B5CF6" alt="YouTube" /></a>
-  <a href="https://github.com/XREFS0"><img src="https://img.shields.io/badge/GitHub-121214?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mrmasaofficial"><img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/MrMasaOfficial"><img src="https://img.shields.io/badge/Facebook-121214?style=for-the-badge&logo=facebook&logoColor=8B5CF6" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/codewithmasa/"><img src="https://img.shields.io/badge/Instagram-121214?style=for-the-badge&logo=instagram&logoColor=8B5CF6" alt="Instagram" /></a>
+  <a href="https://t.me/XREFS0"><img src="https://img.shields.io/badge/Telegram-121214?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.youtube.com/@XREFS0"><img src="https://img.shields.io/badge/YouTube-121214?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://github.com/XREFS0"><img src="https://img.shields.io/badge/GitHub-121214?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mrmasaofficial"><img src="https://img.shields.io/badge/LinkedIn-121214?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/MrMasaOfficial"><img src="https://img.shields.io/badge/Facebook-121214?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/codewithmasa/"><img src="https://img.shields.io/badge/Instagram-121214?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
