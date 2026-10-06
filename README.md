@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://up6.cc/2026/05/177905093806911.png" width="220" alt="Mohamed Mamdouh" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(139, 92, 246, 0.3);" />
+  <img src="https://up6.cc/2026/10/179129606503861.jpg" width="220" alt="Mohamed Mamdouh" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(139, 92, 246, 0.3);" />
 </p>
 
 <h1 align="center">MOHAMED MAMDOUH</h1>
