@@ -1,97 +1,63 @@
-XREFS0 | Mohamed Mamdouh
+Mohamed Mamdouh (XREFS0)
 
-<h1 align="center">XREFS0</h1>
-<h3 align="center">Mohamed Mamdouh</h3>
+Software Developer · Cybersecurity Researcher · Reverse Engineer
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Cybersecurity+Enthusiast;Reverse+Engineer;Malware+Analysis+%26+Digital+Forensics;Full-Stack+Web+Developer;Always+Learning+%7C+Always+Building" />
-</p>
+I'm a software developer interested in understanding systems from the inside out. My work and interests span software engineering, cybersecurity, reverse engineering, and web development.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=kalilinux&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge&logo=gnuemacs&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/Software_Development-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF" />
-</p>
+I enjoy building applications, exploring software internals, analyzing APIs, and understanding how systems operate.
 
 ---
 
-👨‍💻 About Me
+Technical Skills
 
-I'm Mohamed Mamdouh, also known as XREFS0.
+Languages
 
-I'm a passionate Software Developer and Cybersecurity Enthusiast with interests spanning multiple areas of technology.
+`C#` `Python` `C++` `Java` `JavaScript` `TypeScript` `PHP` `Kotlin`
 
-I enjoy exploring how software works under the hood, analyzing applications, understanding APIs, building software solutions, and researching security vulnerabilities.
+Software & Web Development
 
-My technical interests include:
+`React` `Node.js` `Express` `HTML` `CSS` `MongoDB` `MySQL` `SQL Server`
 
-- 🔐 Cybersecurity & Ethical Hacking
-- 🧬 Reverse Engineering & Reverse Code Engineering
-- 🦠 Malware Analysis & Digital Forensics
-- 💻 Software Development & Automation
-- 🌐 Full-Stack Web Development
-- 🔌 API Development, Integration & Security
-- 🐧 Linux & System Administration
-- 🗄️ Database Development
+Cybersecurity & Research
 
-My philosophy: Understand how things work, build something better, and never stop learning.
-
----
-
-🛠️ Tech Stack & Skills
-
-Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js,ts,php,kotlin" />
-</p>
-
-Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,mongodb,mysql" />
-</p>
-
-Cybersecurity & Reverse Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,docker,git" />
-</p>
-
-- Reverse Engineering
-- Malware Analysis
-- Static & Dynamic Analysis
-- Web Application Penetration Testing
-- API Security
+- Reverse Engineering & Malware Analysis
+- Web & API Security
+- Application Security
 - Digital Forensics
 - Network Security
-- OWASP Top 10
-- Secure Software Development (SSDLC)
-- DevSecOps
+- Ethical Hacking
+- Secure Software Development
 
-Development Tools
+Tools & Environments
 
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,docker,postman" />
-</p>
+`Linux` `Ubuntu` `Kali Linux` `Git` `GitHub` `Docker` `Visual Studio` `VS Code`
 
 ---
 
-🎓 Certifications & Professional Training
+Areas of Interest
 
-I have completed training and certifications across software development, cybersecurity, networking, and digital forensics.
+- Software Architecture & Development
+- Reverse Code Engineering
+- Malware Research & Analysis
+- API Design, Integration & Security
+- Web Application Development
+- Digital Forensics & Incident Response
+
+---
+
+Certifications & Training
 
 <details>
-<summary><b>🔐 Cybersecurity & Ethical Hacking</b></summary>
+<summary><b>Cybersecurity & Application Security</b></summary>
 
 - Ethical Hacking
 - Cybersecurity Foundation
-- Network Security Fundamentals
 - Introduction to Network Security
+- Network Security Fundamentals
 - Cloud Security Fundamentals
-- Secure Software Development Lifecycle (SSDLC)
 - OWASP Top 10 (Web) 2021
 - OWASP Top 10 (Mobile) 2016
+- Secure Software Development Lifecycle (SSDLC)
 - Implementing DevSecOps Using OWASP Tools
 - Web PenTesting in Practice: Recon to Remediation
 - Android Application Security & Penetration Testing
@@ -100,7 +66,7 @@ I have completed training and certifications across software development, cybers
 </details>
 
 <details>
-<summary><b>🧬 Reverse Engineering & Malware Analysis</b></summary>
+<summary><b>Reverse Engineering & Malware Analysis</b></summary>
 
 - Malware Analysis Fundamentals
 - Reverse Code Engineering
@@ -109,7 +75,7 @@ I have completed training and certifications across software development, cybers
 </details>
 
 <details>
-<summary><b>🔎 Digital Forensics & Investigation</b></summary>
+<summary><b>Digital Forensics</b></summary>
 
 - The Essentials of Digital Forensics: From Basics to Practice
 - Advanced Digital Forensics: File Systems, Mobile Devices, OSINT
@@ -119,18 +85,18 @@ I have completed training and certifications across software development, cybers
 </details>
 
 <details>
-<summary><b>🐧 Linux, Networking & System Administration</b></summary>
+<summary><b>Linux, Networking & Administration</b></summary>
 
 - Red Hat System Administration I
 - Red Hat System Administration II
+- Ubuntu Linux Essentials
 - Computer Network Fundamentals
 - Implementation of Computer Network Fundamentals
-- Ubuntu Linux Essentials
 
 </details>
 
 <details>
-<summary><b>💻 Software Development & Programming</b></summary>
+<summary><b>Programming & Software Engineering</b></summary>
 
 - Python Programming Basics
 - Core Java Programming
@@ -138,41 +104,35 @@ I have completed training and certifications across software development, cybers
 - Java IO and Network Programming
 - Mastering Object-Oriented Programming (OOP) using C++-1
 - Database Developer
-- Hyperledger Fabric Chaincode
-- Introduction to High Performance Computing (HPC)
 - The Principles of Writing Clean Code
+- Introduction to High Performance Computing (HPC)
+- Hyperledger Fabric Chaincode
 
 </details>
 
 <details>
-<summary><b>🌐 Web Development & Databases</b></summary>
+<summary><b>Web, Mobile & Database Development</b></summary>
 
-- The Complete Node.js Course (RESTful Web Services with Node.js, Express, and MongoDB)
+- JavaScript
+- Modern JavaScript ES6 and Beyond
+- TypeScript Fundamentals
+- React JS
+- The Complete Node.js Course
 - Introduction to MongoDB
 - Building Web Applications using PHP & MYSQL
-- JavaScript
-- React JS
-- TypeScript Fundamentals
-- Modern JavaScript ES6 and Beyond
 - Implementing and Developing SQL Server Objects
+- Learning Kotlin for Android
+- Developing Mobile Applications for Android using Java
+- Reactive Programming in iOS RXSwift Essentials
 - UX Design Fundamentals
 
 </details>
 
 <details>
-<summary><b>📱 Mobile Development & Testing</b></summary>
+<summary><b>Testing & Professional Development</b></summary>
 
-- Learning Kotlin for Android
-- Developing Mobile Applications for Android using Java
-- Reactive Programming in iOS RXSwift Essentials
 - Test Automation Guidelines with Selenium and TestNG
 - Effective Test Case and Bug Report Writing Techniques
-
-</details>
-
-<details>
-<summary><b>🚀 Freelancing & Professional Development</b></summary>
-
 - Find Your Freelance Fit
 - Freelancing Basics
 - Getting Started as a Freelancer (Upwork)
@@ -183,41 +143,20 @@ I have completed training and certifications across software development, cybers
 
 ---
 
-📊 GitHub Statistics
+GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XREFS0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XREFS0&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XREFS0&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XREFS0&show_icons=true&hide_border=true&theme=transparent" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XREFS0&layout=compact&hide_border=true&theme=transparent" height="150" />
 </p>
 
 ---
 
-🐍 Contribution Activity
+Contact
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/XREFS0/XREFS0/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
+- Email: [masaprogram3@gmail.com](mailto:masaprogram3@gmail.com)
+- GitHub: [@XREFS0](https://github.com/XREFS0)
 
 ---
 
-📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:masaprogram3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Interested in technology, security research, and building innovative software.</b>
-</p>
-
-<p align="center">
-  <i>"The best way to understand technology is to explore how it works."</i>
-</p>
-
-<h3 align="center">⚡ XREFS0 | Keep Exploring. Keep Building. ⚡</h3>
+Building, exploring, and understanding technology.
