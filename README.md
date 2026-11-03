@@ -202,6 +202,7 @@ Always learning, building, exploring, and understanding how things work.
 <p align="center">
   <img src="https://raw.githubusercontent.com/XREFS0/XREFS0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
 </p>
+
 ---
 
 ## Contact & Social Media
