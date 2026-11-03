@@ -11,6 +11,9 @@
   <a href="mailto:masaprogram3@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.youtube.com/@XREFS0">
+    <img src="https://img.shields.io/badge/YouTube-XREFS0-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -199,19 +202,35 @@ Always learning, building, exploring, and understanding how things work.
 
 ---
 
-## Contact
+## Contact & Social Media
 
 <p align="center">
-  <a href="https://github.com/XREFS0">
-    <img src="https://img.shields.io/badge/GitHub-XREFS0-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.facebook.com/XREFS0">
+    <img src="https://img.shields.io/badge/Facebook-Page-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://t.me/MrMasaOfficial">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/XREFS0_CHANNEL">
+    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://xrefs0.com/">
+    <img src="https://img.shields.io/badge/Website-XREFS0-333333?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@XREFS0">
+    <img src="https://img.shields.io/badge/YouTube-XREFS0-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:masaprogram3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:masaprogram3@gmail.com">masaprogram3@gmail.com</a>
+  <a href="https://www.facebook.com/XREFS0">Facebook</a> •
+  <a href="https://t.me/MrMasaOfficial">Telegram Contact</a> •
+  <a href="https://t.me/XREFS0_CHANNEL">Telegram Channel</a> •
+  <a href="https://xrefs0.com/">Website</a> •
+  <a href="https://www.youtube.com/@XREFS0">YouTube</a>
 </p>
 
 ---
