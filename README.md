@@ -1,23 +1,23 @@
-Mohamed Mamdouh | XREFS0
+# Mohamed Mamdouh | XREFS0
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=XREFS0&fontSize=65&fontColor=ffffff&fontAlignY=45&desc=Software%20Developer%20%7C%20Cybersecurity%20%7C%20Reverse%20Engineering&descAlignY=70&descSize=15" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:masaprogram3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-333333?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://github.com/XREFS0">
-    <img src="https://img.shields.io/badge/GitHub-XREFS0-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-XREFS0-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:masaprogram3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-🖤 About Me
+## About Me
 
-I'm Mohamed Mamdouh, also known as XREFS0.
+I'm **Mohamed Mamdouh**, also known as **XREFS0**.
 
 A software developer with a strong interest in cybersecurity, reverse engineering, and software analysis.
 
@@ -25,11 +25,11 @@ I enjoy exploring how applications work internally, understanding APIs and syste
 
 My interests cover multiple areas of technology, from low-level programming and reverse engineering to full-stack web development and application security.
 
-> ⚡ Always learning, building, breaking things in controlled environments, and understanding how they work.
+Always learning, building, exploring, and understanding how things work.
 
 ---
 
-💻 Programming Languages
+## Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,python,cpp,java,js,ts,php,kotlin" />
@@ -37,7 +37,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 
 ---
 
-🌐 Web Development
+## Web Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,php,mongodb,mysql" />
@@ -45,29 +45,28 @@ My interests cover multiple areas of technology, from low-level programming and 
 
 - Frontend Development
 - Backend Development
-- RESTful API Development
-- API Integration & Security
+- RESTful API Development & Integration
 - Database Design & Development
 - Full-Stack Application Development
 
 ---
 
-🛡️ Cybersecurity & Reverse Engineering
+## Cybersecurity & Reverse Engineering
 
-- 🔐 Ethical Hacking & Penetration Testing
-- 🧬 Reverse Engineering & Reverse Code Engineering
-- 🦠 Malware Analysis & Research
-- 🔎 Digital Forensics & Incident Investigation
-- 🌐 Web Application Security
-- 🔌 API Security & Analysis
-- 🛡️ Network Security
-- ⚙️ Secure Software Development (SSDLC)
-- 🐧 Linux & System Administration
-- 🔬 Static & Dynamic Analysis
+- Ethical Hacking & Penetration Testing
+- Reverse Engineering & Reverse Code Engineering
+- Malware Analysis & Research
+- Digital Forensics & Incident Investigation
+- Web Application Security
+- API Security & Analysis
+- Network Security
+- Secure Software Development (SSDLC)
+- Linux & System Administration
+- Static & Dynamic Analysis
 
 ---
 
-⚙️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,bash,git,github,docker,postman,visualstudio,vscode" />
@@ -75,10 +74,10 @@ My interests cover multiple areas of technology, from low-level programming and 
 
 ---
 
-🏆 Certifications & Professional Training
+## Certifications & Professional Training
 
 <details>
-<summary><b>🛡️ Cybersecurity & Network Security</b></summary>
+<summary><b>Cybersecurity & Network Security</b></summary>
 
 - Ethical Hacking
 - Cybersecurity Foundation
@@ -98,7 +97,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>🧬 Reverse Engineering & Malware Analysis</b></summary>
+<summary><b>Reverse Engineering & Malware Analysis</b></summary>
 
 - Malware Analysis Fundamentals
 - Reverse Code Engineering
@@ -107,7 +106,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>🔎 Digital Forensics</b></summary>
+<summary><b>Digital Forensics</b></summary>
 
 - The Essentials of Digital Forensics: From Basics to Practice
 - Advanced Digital Forensics: File Systems, Mobile Devices, OSINT
@@ -117,7 +116,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>🐧 Linux & System Administration</b></summary>
+<summary><b>Linux & System Administration</b></summary>
 
 - Red Hat System Administration I
 - Red Hat System Administration II
@@ -126,7 +125,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>💻 Programming & Software Engineering</b></summary>
+<summary><b>Programming & Software Engineering</b></summary>
 
 - Python Programming Basics
 - Core Java Programming
@@ -141,7 +140,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>🌐 Web Development & Databases</b></summary>
+<summary><b>Web Development & Databases</b></summary>
 
 - The Complete Node.js Course (RESTful Web Services with Node.js, Express, and MongoDB)
 - Introduction to MongoDB
@@ -156,7 +155,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>📱 Mobile Development & Testing</b></summary>
+<summary><b>Mobile Development & Testing</b></summary>
 
 - Learning Kotlin for Android
 - Developing Mobile Applications for Android using Java
@@ -167,7 +166,7 @@ My interests cover multiple areas of technology, from low-level programming and 
 </details>
 
 <details>
-<summary><b>🚀 Freelancing & Professional Development</b></summary>
+<summary><b>Freelancing & Professional Development</b></summary>
 
 - Find Your Freelance Fit
 - Freelancing Basics
@@ -179,36 +178,40 @@ My interests cover multiple areas of technology, from low-level programming and 
 
 ---
 
-📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XREFS0&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XREFS0&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XREFS0&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XREFS0&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XREFS0&theme=github-dark-blue&hide_border=true" width="70%" />
-</p>
-
----
-
-📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XREFS0&theme=github-compact&hide_border=true&area=true" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=XREFS0&theme=tokyonight&hide_border=true" width="75%" />
 </p>
 
 ---
 
-📬 Contact
+## Contribution Activity
 
 <p align="center">
-  <a href="mailto:masaprogram3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-masaprogram3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://raw.githubusercontent.com/XREFS0/XREFS0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
+
+---
+
+## Contact
+
+<p align="center">
   <a href="https://github.com/XREFS0">
-    <img src="https://img.shields.io/badge/GitHub-XREFS0-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-XREFS0-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:masaprogram3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:masaprogram3@gmail.com">masaprogram3@gmail.com</a>
 </p>
 
 ---
@@ -217,6 +220,4 @@ My interests cover multiple areas of technology, from low-level programming and 
   <i>"Understand the code. Explore the system. Build beyond limits."</i>
 </p>
 
-<p align="center">
-  ⚡ <b>XREFS0</b> · Keep Learning. Keep Building. 🖤
-</p>
+<h3 align="center">XREFS0 | Keep Learning. Keep Building.</h3>
